@@ -10,7 +10,7 @@ import "channels"
 import 'jquery' /* jQueryをimportする。 */
 import "script.js" /* 作成したscript.jsをimportする。 */
 import Swiper from 'swiper/swiper-bundle.js';
-import 'swiper/swiper-bundle.css';
+import 'swiper/swiper-bundle.css'; 
 
 Rails.start()
 Turbolinks.start()
