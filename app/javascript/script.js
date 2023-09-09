@@ -7,7 +7,7 @@ $(document).ready(function () {
   });
 });
 
-// Swiperのオプションを定数化    
+// Swiperのオプションを定数化     
 const opt = {
   loop: true, 
   pagination: { 
