@@ -6,7 +6,7 @@ const { environment } = require('@rails/webpacker')
     new webpack.ProvidePlugin({
       $: 'jquery/src/jquery',
       jQuery: 'jquery/src/jquery',
-      Swiper: 'swiper/swiper-bundle'   
+      Swiper: 'swiper/swiper-bundle'    
     })
   )
 
