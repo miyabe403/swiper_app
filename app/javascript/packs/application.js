@@ -12,6 +12,9 @@ import "script.js" /* 作成したscript.jsをimportする。 */
 import Swiper from 'swiper/swiper-bundle.js';
 import 'swiper/swiper-bundle.css'; 
 
+// import "sample.js"  /* packs以下のパスをimportの後に指定する形で読み込むことができます。 */
+// import "scripts/sample.js" /* packs以下のパスをimportの後に指定する形で読み込むことができます。 */
+
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
