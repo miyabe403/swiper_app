@@ -1,4 +1,4 @@
-let title = "javascriptが使えました";  
+let title = "javascriptが使えました";   
 alert(title);
 
 $(document).ready(function () {
